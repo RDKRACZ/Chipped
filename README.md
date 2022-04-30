@@ -37,7 +37,7 @@ Would you also like to contribute to our mod? Simply messege us on discord to ap
 ## Social Media
 
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
-[![Discord](https://cdn.discordapp.com/attachments/721407493351407646/841063759078096966/discordlogo.png)](https://discord.gg/GrPGD5XGEJ "Discord")
+[![Discord](https://cdn.discordapp.com/attachments/721407493351407646/841063759078096966/discordlogo.png)](https://discord.gg/NPjsPFEYbN "Discord")
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
 [![Twitter](https://cdn.discordapp.com/attachments/721407493351407646/841063761359798302/twitterlogo.png)](https://twitter.com/NetworkCrumb "Twitter")
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
