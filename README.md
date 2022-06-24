@@ -49,7 +49,6 @@ Would you also like to contribute to our mod? Simply messege us on discord to ap
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3DFK3R)
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
-[![Paypal](https://cdn.discordapp.com/attachments/721407493351407646/841072837102927883/paypallogo.png)](https://www.paypal.com/paypalme/technomages?locale.x=en_US "Paypal")
 ![](https://cdn.discordapp.com/attachments/843362690088042506/848395257087262760/blanklogo.png)
 
 ## Our Other Projects
